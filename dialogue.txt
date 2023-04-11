@@ -1,9 +1,0 @@
-A1	Hello, how are you today?
-A2	I'm good, thank you. And you?
-A1	I'm fine too. What are you doing?
-A2	Just browsing the internet. Do you have any plans for the weekend?
-A1	Yes, I'm going to visit my parents. They live in another city.
-A2	That sounds nice. How long are you staying there?
-A1	Just for two days. I have to be back on Monday for work.
-A2	I see. Well, I hope you have a good time.
-A1	Thank you. You too.
